@@ -2,11 +2,21 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg)](https://sqlite.org)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-abdulhalim%2FGoftar-black)](https://github.com/abdulhalim/Goftar)
+
+**[Read this in Persian / فارسی](./README.fa.md)**
+
+---
 
 If you're looking to launch a **professional discussion forum** with a modern look, high security, and full support for Right-to-Left (RTL) languages, **Goftar** is exactly what you need.
 
 > **A complete, lightweight, and powerful forum builder** that prioritizes security, speed, and user experience.
+
+## 📸 Screenshots
+
+| Index Vire | Posts View |
+|--------------|-------------|
+| ![Index Screenshot 1](screenshots/en-screenshot1.png) | ![Posts Screenshot 1](screenshots/en-screenshot2.png) |
 
 ## ✨ Key Features
 
@@ -32,13 +42,6 @@ If you're looking to launch a **professional discussion forum** with a modern lo
 - PHP 7.4 or higher
 - `sqlite3` and `gd` extensions
 
-## 🔮 Roadmap
-
-- Email notifications
-- Advanced search
-- Public API
-- Caching system
-
 ## 📄 License
 
 This project is released under the **MIT** license.
@@ -46,3 +49,5 @@ This project is released under the **MIT** license.
 ---
 
 > **Goftar**; A secure, fast, RTL-ready choice for any community.
+
+🔗 **GitHub Repository**: [https://github.com/abdulhalim/Goftar](https://github.com/abdulhalim/Goftar)
