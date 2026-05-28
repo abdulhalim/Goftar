@@ -1,4 +1,4 @@
-# Goftar; Modern, Secure, Open-Source Forum Builder with Full RTL Support
+# Goftar; Modern, Secure, Open-Source Forum Builder with Full RTL/LTR Support
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
