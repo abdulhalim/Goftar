@@ -2,11 +2,21 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57.svg)](https://sqlite.org)
+[![مخزن گیت‌هاب](https://img.shields.io/badge/GitHub-abdulhalim%2FGoftar-black)](https://github.com/abdulhalim/Goftar)
+
+**[خواندن به انگلیسی / English](./README.md)**
+
+---
 
 اگر به دنبال راه‌اندازی یک **انجمن گفتگوی حرفه‌ای** با ظاهری مدرن، امنیت بالا و پشتیبانی کامل از زبان‌های راست‌به‌چپ (RTL) هستید، **گفتار** دقیقاً برای شما ساخته شده است.
 
 > **یک انجمن‌ساز کامل، سبک و قدرتمند** که امنیت، سرعت و تجربه کاربری را در اولویت قرار می‌دهد.
+
+## 📸 تصاویر محیط
+
+| نمای دسکتاپ | نمای موبایل |
+|--------------|-------------|
+| ![اسکرین‌شات ایندکس](screenshots/fa-screenshot1.png) | ![اسکرین‌شات پست‌ها](screenshots/fa-screenshot2.png) |
 
 ## ✨ ویژگی‌های کلیدی
 
@@ -32,13 +42,6 @@
 - PHP 7.4 یا بالاتر
 - اکستنشن‌های `sqlite3` و `gd`
 
-## 🔮 در برنامه آینده
-
-- اعلان ایمیل
-- جستجوی پیشرفته
-- API عمومی
-- سیستم کش
-
 ## 📄 مجوز
 
 این پروژه تحت مجوز **MIT** منتشر شده است.
@@ -46,3 +49,5 @@
 ---
 
 > **گفتار**؛ انتخابی امن، سریع و آماده برای زبان‌های راست‌به‌چپ.
+
+🔗 **مخزن گیت‌هاب**: [https://github.com/abdulhalim/Goftar](https://github.com/abdulhalim/Goftar)
