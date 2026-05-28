@@ -8,7 +8,7 @@
 
 ---
 
-If you're looking to launch a **professional discussion forum** with a modern look, high security, and full support for Right-to-Left (RTL) languages, **Goftar** is exactly what you need.
+If you're looking to launch a **professional discussion forum** with a modern look, high security, **Goftar** is exactly what you need.
 
 > **A complete, lightweight, and powerful forum builder** that prioritizes security, speed, and user experience.
 
