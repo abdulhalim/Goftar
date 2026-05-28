@@ -14,9 +14,9 @@ If you're looking to launch a **professional discussion forum** with a modern lo
 
 ## 📸 Screenshots
 
-| Index Vire | Posts View |
+| Index View | Posts View |
 |--------------|-------------|
-| ![Index Screenshot 1](screenshots/en-screenshot1.png) | ![Posts Screenshot 1](screenshots/en-screenshot2.png) |
+| ![Index Screenshot](screenshots/en-screenshot1.png) | ![Posts Screenshot](screenshots/en-screenshot2.png) |
 
 ## ✨ Key Features
 
