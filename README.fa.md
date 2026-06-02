@@ -4,7 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
 [![مخزن گیت‌هاب](https://img.shields.io/badge/GitHub-abdulhalim%2FGoftar-black)](https://github.com/abdulhalim/Goftar)
 
-**[خواندن به انگلیسی / English](./README.md)**
+🇬🇧 **[خواندن به انگلیسی / English](./README.md)**
 
 ---
 
