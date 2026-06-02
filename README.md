@@ -4,7 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4.svg)](https://php.net)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-abdulhalim%2FGoftar-black)](https://github.com/abdulhalim/Goftar)
 
-**[Read this in Persian / فارسی](./README.fa.md)**
+🇮🇷 **[Read this in Persian / فارسی](./README.fa.md)**
 
 ---
 
@@ -41,6 +41,71 @@ If you're looking to launch a **professional discussion forum** with a modern lo
 
 - PHP 7.4 or higher
 - `sqlite3` and `gd` extensions
+
+---
+
+## Installation Steps
+
+### 1. Upload Files
+Upload all project files to your web server's root directory (e.g., `public_html` or `htdocs`).
+
+### 2. Set Permissions
+Allow write permissions for the `storage/` and `config/` folders.
+```bash
+chmod -R 755 storage config
+```
+
+### 3. Run the Installer
+Open your site's URL in a browser. You will be automatically redirected to the installation page.
+
+### 4. Follow the Installation Steps
+- **Step 1**: Accept the terms and conditions.
+- **Step 2**: Enter your site title, slogan, and site URL.
+- **Step 3**: Set up the admin account (username, display name, password) and security questions.
+- **Step 4**: Review the summary and click the **Install** button.
+
+✅ After installation completes, the `/install/` folder will be automatically disabled or removed for security.
+
+---
+
+## Initial Forum Setup
+
+Now that the installation is complete, let's prepare your forum for use.
+
+### Step 1: Log in to the Admin Panel
+
+1. Log in to your site using the admin username and password you set during installation.
+2. After logging in, click on your name in the top menu and select **Admin Panel**.
+
+### Step 2: Create Your First Category
+
+To organize topics, you first need to create a category.
+
+1. In the Admin Panel, click on **Category Management** from the side or top menu.
+2. Fill out the **Add Category** form:
+   - **Category Name**: e.g., "General" or "Announcements"
+   - **Description**: (Optional) Write a short description for this category
+   - **Icon**: Choose from Font Awesome icons
+3. Click the **Add Category** button.
+
+### Step 3: Write Your First Topic
+
+1. Click on the site logo at the top to return to the homepage.
+2. Click on the category you just created.
+3. Click the blue **New Topic** button.
+4. Enter the title and content of your first topic. You can use Markdown features and toolbar buttons.
+5. Click **Post Topic**. Your first topic has been created.
+
+### Step 4: Security Settings (Recommended)
+
+- In the **Admin Panel**, go to **WAF Settings** and set the protection level to **Normal**.
+- From **IP Block Management**, you can block malicious IP addresses.
+
+---
+
+## 🎉 Congratulations!
+
+Your forum is now ready to go. Users can register, create topics, and join conversations.
 
 ## 📄 License
 
