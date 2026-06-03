@@ -107,6 +107,21 @@ To organize topics, you first need to create a category.
 
 Your forum is now ready to go. Users can register, create topics, and join conversations.
 
+## 📚 Third-Party Libraries & Assets
+
+Goftar stands on the shoulders of these great open-source projects. We sincerely thank their developers.
+
+| Library | Description | License |
+| :--- | :--- | :--- |
+| **[Font Awesome 7.1](https://fontawesome.com/)** | Icon set and toolkit | CC BY 4.0 |
+| **[Parsedown](https://parsedown.org/)** | Markdown parser for PHP | MIT |
+| **[GLightbox](https://github.com/biati-digital/glightbox)** | Modern, responsive, touch-friendly lightbox | MIT |
+| **[VazirMatn](https://github.com/rastikerdar/vazirmatn)** | Beautiful Persian/Arabic font | SIL OFL 1.1 |
+| **[QRCode.js](https://github.com/davidshimjs/qrcodejs)** | Cross-browser QRCode generator | MIT |
+| **[Chart.js](https://www.chart.js.org/)** | Simple yet flexible JavaScript charting | MIT |
+
+> 💡 A special thanks to the open-source community for making powerful tools accessible to everyone.
+
 ## 📄 License
 
 This project is released under the **MIT** license.
