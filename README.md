@@ -8,6 +8,13 @@
 
 ---
 
+> ## ⚠️ Product Status: **Early Development**
+> 
+> **This product is still in early testing and is NOT ready for live/production use.**
+> You may encounter bugs, security issues, or breaking API changes. Using it in real-world projects is currently **not recommended**.
+
+---
+
 If you're looking to launch a **professional discussion forum** with a modern look, high security, **Goftar** is exactly what you need.
 
 > **A complete, lightweight, and powerful forum builder** that prioritizes security, speed, and user experience.
@@ -44,7 +51,7 @@ If you're looking to launch a **professional discussion forum** with a modern lo
 
 ---
 
-## Installation Steps
+## Installation Steps (For Testing/Development Only)
 
 ### 1. Upload Files
 Upload all project files to your web server's root directory (e.g., `public_html` or `htdocs`).
@@ -105,7 +112,7 @@ To organize topics, you first need to create a category.
 
 ## 🎉 Congratulations!
 
-Your forum is now ready to go. Users can register, create topics, and join conversations.
+Your forum (in the testing environment) is now ready to go. Users can register, create topics, and join conversations.
 
 ## 📚 Third-Party Libraries & Assets
 
@@ -124,10 +131,6 @@ Goftar stands on the shoulders of these great open-source projects. We sincerely
 
 ## 📄 License
 
-This project is released under the **MIT** license.
-
----
-
-> **Goftar**; A secure, fast, RTL-ready choice for any community.
+This project is released under the **MIT** license.ftar**; A secure, fast, RTL-ready choice for any community. *(Coming soon after initial testing is complete)*
 
 🔗 **GitHub Repository**: [https://github.com/abdulhalim/Goftar](https://github.com/abdulhalim/Goftar)
