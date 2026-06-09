@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/logo.svg" alt="Goftar Logo" width="120" height="120">
+
 
 # Goftar
 
