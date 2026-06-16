@@ -60,7 +60,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| 📝 **Admin Notes** | Internal staff notes/tickets with priority levels, status tracking, assignee management, and @mention notifications |
+| 📝 **Admin Notes** | Internal staff notes/tickets with priority levels, status tracking, assignee management |
 | 📈 **Statistics Dashboard** | 5 interactive Chart.js visualizations — hourly/weekly activity, monthly trends, category breakdown, user growth |
 | 📁 **Upload Management** | Per-user quota system, category filtering, auto WebP conversion, admin approval workflow |
 | 👁️ **Guest Content Control** | 7 individual settings to hide specific content types from guests |
