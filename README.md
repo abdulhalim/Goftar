@@ -38,7 +38,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🗳️ **Polls** | Create polls in topics with single/multiple vote types and Chart.js visualizations |
+| 🗳️ **Polls** | Create polls in topics with single/multiple vote types |
 | 🖼️ **Gallery BBCode** | Insert image galleries with multi-file upload, external URL support, and GLightbox viewer |
 | 🔒 **Gated Content** | Lock content behind likes or replies — users must interact to reveal |
 | 👁️ **NSFW System** | Age-verified content gates with blur overlay and per-topic cookie-based verification |
