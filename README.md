@@ -1,10 +1,11 @@
 # Goftar
 
 <p align="center">
-  <strong>Modern, Secure, Open-Source Forum Builder with Full RTL/LTR Support</strong>
+  <strong>Modern, Secure, Open-Source Forum Builder with Full RTL/LTR Support</strong><br>
+  Demo: https://pourdaryaei.ir/forum/
 </p>
 
-Demo: https://pourdaryaei.ir/forum/
+
 
 <p align="center">
   <img src="https://github.com/abdulhalim/Goftar/raw/main/screenshots/en-screenshot1.png" alt="Homepage Screenshot" width="800"/>
